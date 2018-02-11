@@ -1,5 +1,9 @@
 # CHEME_5500_WC_3
 
-## Subsection Header
+## Readme Edit Test
 
-just some random text
+Python formatted code below:
+
+```python
+print("hello world")
+```
